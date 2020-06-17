@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "209477343074",
+    "firebase_url": "https://mifoodorder.firebaseio.com",
+    "project_id": "mifoodorder",
+    "storage_bucket": "mifoodorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209477343074:android:23528778027dc47b523e3b",
+        "android_client_info": {
+          "package_name": "com.example.mifoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209477343074-cj348ucebgdi77p6sc4asomjlgunqo9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mifoodapp",
+            "certificate_hash": "35453623c5f866d8c248aae598560b98a7c196f2"
+          }
+        },
+        {
+          "client_id": "209477343074-3j0kir5clbk7h3qh3of5kj8a689jvtur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_6ffWq-Uojz5Mw2OitmeDctyj0E8fX4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209477343074-3j0kir5clbk7h3qh3of5kj8a689jvtur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209477343074:android:2a8451fb4bd3f37a523e3b",
+        "android_client_info": {
+          "package_name": "com.example.reciever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209477343074-q2acmsgd7dsj6ggn5trdm3k0ob4ie6va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reciever",
+            "certificate_hash": "35453623c5f866d8c248aae598560b98a7c196f2"
+          }
+        },
+        {
+          "client_id": "209477343074-3j0kir5clbk7h3qh3of5kj8a689jvtur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_6ffWq-Uojz5Mw2OitmeDctyj0E8fX4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209477343074-3j0kir5clbk7h3qh3of5kj8a689jvtur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
